@@ -1,0 +1,96 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container{
+  padding:60px;
+}
+
+.header-section_one{
+  text-align: center;
+  padding: 20px;
+  justify-content: center;
+  background-color: #039f9f;
+  color: #060505;
+}
+
+.contact-form{
+  padding: 20px;
+  justify-content: center;
+  background-color:#039f9f;
+  color: #040404;
+  text-align: center;
+}
+.contact-form table{
+ text-align: center;
+  padding: 20px;
+  margin: auto;
+
+}
+
+
+.contact-form_input {
+  width: 100%; 
+  height: 30px;
+      /* inputs, cell full width edukkum */
+}
+.contact-form_submit{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f48e11;
+  cursor: pointer;
+  text-align: center;
+  width: 300px;
+}
+ 
+
+
+.section-one_button,.section-two_button,.section-three_button,.section-four_button{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #a306d8;
+  cursor: pointer;
+  text-align: center; 
+  display: block;
+  width: 100%;
+}
+
+
+.section-one_image,.section-two_image,.section-three_image,.section-four_image{
+  width:300px;
+  height:250px;
+  border-radius: 10px;
+  
+}
+
+.container_body{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top:10px;
+
+}
+
+.section-one_name,.section-two_name,.section-three_name,.section-four_name{
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-size: 17px;
+}
+
+.header-section-one_description{
+  text-align: center;
+  padding: 8px;
+  margin: 10px;
+  font-size: 17px;
+
+ 
+}
