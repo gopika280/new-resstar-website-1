@@ -3,7 +3,8 @@ Reestar
 A simple, responsive-style restaurant landing page built with HTML and CSS. It showcases four popular dishes with an "Order Now" button for each, and includes a contact form at the bottom.
 
 Preview
-<img width="1883" height="753" alt="image" src="https://github.com/user-attachments/assets/abcf05c8-c64f-4b21-8dbb-4ad0aa449d81" />
+
+<img width="1871" height="730" alt="image" src="https://github.com/user-attachments/assets/0105254a-04d1-4218-bcbd-24d26e5a583a" />
 
 
 Features
