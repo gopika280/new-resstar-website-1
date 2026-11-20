@@ -1,1 +1,40 @@
-# new-resstar-website-1
+Reestar
+
+A simple, responsive-style restaurant landing page built with HTML and CSS. It showcases four popular dishes with an "Order Now" button for each, and includes a contact form at the bottom.
+
+Preview
+<img width="1883" height="753" alt="image" src="https://github.com/user-attachments/assets/abcf05c8-c64f-4b21-8dbb-4ad0aa449d81" />
+
+
+Features
+Header with the brand name and navigation links (Home, Recipe, Contact)
+Four food cards in a single aligned row, each with an image, a name and an "Order Now" button:
+Burger
+Pancake
+Falooda
+Tiramisu
+Contact form with Name, Age and Email fields and a Submit button
+Custom Google Font (Emilys Candy)
+Layout built with CSS Flexbox
+
+Tech Stack
+Technology	Usage
+HTML5	Page structure and form
+CSS3	Styling and Flexbox layout
+Google Fonts	Emilys Candy typeface
+
+
+
+What I Learned
+Aligning images with the same size using width, height and object-fit
+Using display: flex with justify-content and align-items
+Centering buttons using display: block and margin: auto
+Building a form layout with a table
+Writing reusable class names in CSS
+
+Future Improvements                                
+
+Make the page fully responsive for mobile screens
+Add food descriptions and prices
+Create separate Home, Recipe and Contact pages
+Add form validation and a working backend
